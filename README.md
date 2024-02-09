@@ -1,6 +1,6 @@
 # Aplicación de Reservas de Cabañas The Wild Oasis
 
-![Wild Oasis Logo](wild-oasis-logo.png)
+![Wild Oasis Logo](/public/logo-light.png)
 
 ## Descripción
 
